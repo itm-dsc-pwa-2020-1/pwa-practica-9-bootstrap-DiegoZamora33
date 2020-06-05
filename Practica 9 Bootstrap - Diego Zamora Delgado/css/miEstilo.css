@@ -1,0 +1,149 @@
+@font-face {
+  font-family: OpenSans-Regular;
+  src: url(../font/OpenSans-Regular.ttf); 
+}
+@font-face {
+  font-family: OpenSans-Bold;
+  src: url(../font/OpenSans-Bold.ttf); 
+}
+@font-face {
+  font-family: Font-Awesome;
+  src: url(../font/fontawesome-webfont.ttf); 
+}
+@font-face {
+  font-family: Font19;
+  src: url(../font/Nineteenth.otf); 
+}
+*{
+	border: 0px solid #000;
+
+}
+
+.contenedor-navbar {
+    border-bottom: 1px solid #ff0000;
+}
+
+.bg-flat
+{
+  background: #f6f6f6;
+}
+
+.miBoton 
+{
+  font-weight: 100;
+  font-family: OpenSans-Bold;
+  text-decoration: none;  
+    border-radius: 5px;
+    padding: 1px;
+    color: #000;
+  font-size: 15px;
+}
+
+.height-80
+{
+  min-height: 80px;
+}
+
+.loNuevo-dark
+{
+  font-family: OpenSans-Regular;
+  text-decoration: none;  
+    
+  color: #000;
+  font-size: 27px;
+}
+
+.loNuevo-dark-p
+{
+  font-family: OpenSans-Regular;
+  text-decoration: none;  
+    
+  color: #000;
+  font-size: 17px;
+
+}
+
+.text-tarjeta
+{
+  font-family: OpenSans-Bold;
+  text-decoration: none; 
+    color: #000;
+  font-size: 15px;
+}
+
+.input-ca
+{
+  border:  2px solid #333355; padding: 5px;
+  min-width: 400px;
+  font-size: 15px;
+}
+
+.consultar
+{
+  background: #000; color: #fff; font-family: Font19; text-align: center; padding: 5px 15px 5px 15px; text-decoration: none;
+}
+
+.m-t-2
+{
+  margin-top: 2%;
+}
+
+.contenedorTarjeta
+{
+  border-right: 2px solid #9898ee;
+}
+
+.cajaTarjeta
+{
+  max-width: 120px; margin-left: 2%;
+}
+
+
+
+.min-hei
+{
+  min-height: 91%;
+}
+
+.title-card
+{
+  font-family: OpenSans-Bold;
+  text-decoration: none; 
+    color: #000;
+  font-size: 16px;
+}
+
+.text-card
+{
+  font-family: OpenSans-Bold;
+  text-decoration: none; 
+    color: #000;
+  font-size: 13px;
+}
+
+.sinDecoracion
+{
+  text-decoration: none;
+}
+
+
+.verMas
+{
+  max-width: 150px; background: #000; color: #fff; font-family: Font19; text-align: center; padding: 5px;
+}
+
+.derechos
+{
+    background-color: rgba(255, 0, 0, 0.1);
+    color: #fff;
+    font-family: OpenSans-Regular;
+}
+
+.miFooter
+{
+    background-color: #303030;
+    font-size: 14px;
+    font-family: Font19;
+}
+
+
